@@ -79,7 +79,7 @@ npm run dev
 https://github.com/user-attachments/assets/34f7df86-9b33-4e46-ae55-c7704be636d2
 
 
-### Create virtual bridges in host machines
+### Create virtual bridges in host machine
 ```bash
 sudo ip link add name br1 type bridge
 sudo ip link set br1 up
